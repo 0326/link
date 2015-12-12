@@ -55,7 +55,6 @@
 
     function createLinks (argument) {
         var key,i,obj;
-        initLinks();
         for(key in DATA.links){
             obj=DATA.links[key];
             for(i=0;i<obj.length;i++){
