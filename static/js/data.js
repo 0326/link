@@ -51,6 +51,11 @@
             'hdimg': 'http://www.gbtags.com/gb/networks/themes/img/gbin1.ico',
             'url': 'http://www.gbtags.com/gb/gbcollection.htm'
         },
+        {
+            'name': 'segmentfault',
+            'hdimg': 'http://segmentfault.com/favicon.ico',
+            'url': 'http://segmentfault.com/blogs'
+        },
 
     ];
 
@@ -101,6 +106,11 @@
             'name': '奇舞团',
             'hdimg': 'http://www.75team.com/favicon.ico',
             'url': 'http://www.75team.com/'
+        },
+        {
+            'name': 'three.js',
+            'hdimg': defaultIcon,
+            'url': 'http://threejs.org/'
         }
     ];
 
@@ -226,6 +236,16 @@
             'name': '百度脑图',
             'hdimg': 'http://www.baidu.com/favicon.ico',
             'url': 'http://naotu.baidu.com/edit.html'
+        },
+        {
+            'name': '百度识图',
+            'hdimg': 'http://www.baidu.com/favicon.ico',
+            'url': 'http://shitu.baidu.com/'
+        },
+        {
+            'name': '谷歌搜图',
+            'hdimg': defaultIcon,
+            'url': 'https://www.google.com/intl/zh-CN/insidesearch/features/images/searchbyimage.html'
         }
     ];
 
