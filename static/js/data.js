@@ -56,6 +56,11 @@
             'hdimg': 'http://segmentfault.com/favicon.ico',
             'url': 'http://segmentfault.com/blogs'
         },
+        {
+            'name': 'V2EX',
+            'hdimg': 'https://www.v2ex.com/favicon.ico',
+            'url': 'https://www.v2ex.com/'
+        }
 
     ];
 
