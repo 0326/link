@@ -282,6 +282,11 @@
             'url': 'http://www.paulirish.com/'
         },
         {
+            'name': '王垠',
+            'hdimg': defaultIcon,
+            'url': 'http://www.yinwang.org/'
+        },
+        {
             'name': '张鑫旭',
             'hdimg': 'http://www.zhangxinxu.com/favicon.ico',
             'url': 'http://www.zhangxinxu.com/wordpress/'
