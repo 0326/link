@@ -292,6 +292,11 @@
             'url': 'http://www.zhangxinxu.com/wordpress/'
         },
         {
+            'name': 'Perfection Kills',
+            'hdimg': defaultIcon,
+            'url': 'http://perfectionkills.com/'
+        },
+        {
             'name': 'EVAN YOU',
             'hdimg': 'http://blog.evanyou.me/favicon.png',
             'url': 'http://blog.evanyou.me/'
